@@ -20,7 +20,7 @@ High-capacity **Adversarial Risk Specialist, AI Red Teamer, and Purple Team Anal
 
 #### **Hirschbach / Xtreme Logistics** | Madison, TN
 **Adversarial Risk Analyst & Critical Infrastructure Deployment Lead** | *January 2023 – Present*
-*   **Infrastructure Risk & Asset Containment**: Commanded the tactical security, staging, and operational deployment of multi-million dollar technical production assets for high-velocity nationwide live stadium operations (Luke Bryan Tour Matrix).
+*   **Infrastructure Risk & Asset Containment**: Commanded the tactical security, staging, and operational deployment of multi-million dollar technical production assets for high-velocity nationwide live stadium operations.
 *   **Mobile-Field Fuzzing Operations**: Engineered, executed, and documented advanced adversarial language model fuzzing protocols entirely on-the-fly via mobile interfaces during active tour logistical stand-downs.
 *   **Zero-Loss Integrity Assurance**: Conducted regular technical audits, asset tracking, and comprehensive hardware/data inventory mapping, achieving a 100% strict loss prevention rating under complex field conditions.
 *   **Personnel Boundary Enforcement**: Managed and directed cross-functional technical teams in high-stress, rapid-turnaround physical and digital deployments, ensuring flawless compliance with strict operational safety protocols.
